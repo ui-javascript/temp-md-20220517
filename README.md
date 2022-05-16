@@ -25,7 +25,7 @@
 
 # 上海核酸日记
 
-- 都记小本本上了 @diary 
+- 我都记小本本上了 @diary 
 
 ```
 2022-04-04 ~ 2022-04-30: https://luo0412.oss-cn-hangzhou.aliyuncs.com/1652702732678-chFXTAdwZi6K.jpeg
